@@ -65,3 +65,11 @@ http://127.0.0.1:1225/qq/v1/img/dr/snowgrave?qq=12251997
 ```
 
 The API returns an `image/gif` response.
+
+# Usage
+
+We provide an online website to generate the GIF. You can visit:
+
+*[QQ Snowgrave API Web Generator](https://player233lol.github.io/qq_snowgraveapi/html/)*
+
+Enter a QQ number and generate the GIF directly in your browser.
