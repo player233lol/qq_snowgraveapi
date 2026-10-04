@@ -72,4 +72,4 @@ We provide an online website to generate the GIF. You can visit:
 
 *[QQ Snowgrave API Web Generator](https://player233lol.github.io/qq_snowgraveapi/html/)*
 
-Enter a QQ number and generate the GIF directly in your browser.
+Enter a pic and generate the GIF directly in your browser.
